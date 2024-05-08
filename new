@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 align="center" > Webzz Tutorials </h1>
+    <h3 align="center" > Our mission is to help users learn programming more easily. </h3>
+    <p> Webzz provides <mark>Programming Tutorials</mark> and collection of codes.</p>
+    
+    <p>We are a small team of <u>passionate developers</u> constantly working to create programming resources that's accurate and easier to understand.</p>
+    
+    <P> <q>We understand that creating textual content on the web to learn programming is not enough.</q>  Get our paid subscription now at Rs <del>1599</del> <b>999</b> only. Now Learn the latest technologies at faster x<sup>2</sup> speed. </P>
+</body>
+</html>
