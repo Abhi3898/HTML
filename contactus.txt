@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us</title>
+</head>
+<body>
+    <h3> CONTACT US</h3>
+    <h1>Let's Get In Touch</h1>
+
+    <address><h2>Bangalore</h2>
+    Ardente Office One, Tower-2, Level-3,<br> Hoodi Circle, Whitefield, Bengaluru, <br>Karnataka - 560048</address>
+
+    <address><h2> Delhi</h2>
+    Innov8 Cp Regal, Connaught Place 1st,<br> 2nd, and Mezzanine Floor, <br> No. 44, Regal Building, Connaught Place,<br> New Delhi - 110001</address>
+
+    <address><h2> United Kingdom </h2>
+    44, Berkeley Square, Bristol - BS81HB, <br> United Kingdom </address>
+
+    <address><h2>  Email Information </h2>
+    support@synlogica.com </address><br><br>
+
+
+
+    <a href="home.html">Home</a> <br>
+    <a href="Contact.html">Contact Us</a><br>
+    <a href="ourteam.html">OurTeam</a><br>
+
+</body>
+</html>

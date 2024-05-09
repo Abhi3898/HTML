@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="4" cellpadding="10" width="100%" >
+        <thead>
+            <tr> 
+                <th>
+                    <b> Name </b>
+                </th>
+                <th>
+                    <b>Experience (in YRS)</b>
+                </th>
+                <th>
+                    <b>Profile</b>
+                </th>
+            </tr>
+        </thead>
+    
+        <tbody align="center"> 
+            <tr> 
+                <td>
+                 Mr.Rahul Rastogi
+                </td>
+                <td>
+                    15
+                </td>
+                <td>
+                    Sr.Software Engineer
+                </td>
+            </tr>
+                <tr>
+                    <td>
+                        Ms. Khushi Asthana
+                    </td>
+                    <td>
+                        4
+                    </td>
+                    <td>
+                        Graphic Designer
+                    </td>
+                </tr>
+            <tr>
+                <td>
+                    Mr. Jayant Kumar
+                </td>
+                <td>
+                    5
+                </td>
+                <td>
+                    R & D Engineer
+                </td>
+            </tr>
+            <tr> 
+                <td>
+                    Ms. Khoosbu Singh
+                </td>
+                <td>
+                    1
+                </td>
+                <td>
+                   HR
+                </td>
+            </tr>
+            <tr> 
+                <td colspan="2">
+                    Total – One Lakh Twenty Thousand Only
+                </td>
+                <td>
+                    4
+                </td>
+            </tr>
+        </tbody>
+
+        <a href="home.html">Home</a> <br>
+        <a href="Contact.html">Contact Us</a><br>
+        <a href="ourteam.html">OurTeam</a><br>
+</body>
+</html>

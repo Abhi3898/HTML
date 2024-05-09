@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+<body>
+     <h4>ABOUT US</h4>
+     <h1>Let Synlogica Be Your Partners Preferred IT Partner</h1>
+     <p> Synlogica, today is a well renown name in the arena of global IT solutions & also as a service company providing technology consulting, talent sourcing, and human resource management solutions to For-tune 1000 companies </p>
+
+     <a href="home.html">Home</a> <br>
+     <a href="Contact.html">Contact Us</a><br>
+     <a href="ourteam.html">OurTeam</a><br>
+
+</body>
+</html>
