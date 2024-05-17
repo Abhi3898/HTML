@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <table border="4" cellpadding="10" width="100%" >
+        <thead>
+            <tr> 
+                <th align="Left">
+                     S.no
+                </th>
+                <th>
+                    Item Description
+               </th>
+               <th>
+                    Cost (in INR)
+               </th>
+            </tr>
+        </thead>
+        <tbody align="center"> 
+            <tr> 
+                <td align="Right">
+                 1.
+                </td>
+                <td>
+                    Iphone4
+                </td>
+                <td>
+                    59000.00
+                </td>
+            </tr>
+            <tr> 
+                <td align="Right">
+                 2.
+                </td>
+                <td>
+                    Iphone Cover
+                </td>
+                <td>
+                    11000.00
+                </td>
+            </tr>
+            <tr> 
+                <td colspan="2">
+                    Total Amount
+                </td>
+                <td>
+                    70000.00
+                </td>
+            </tr>   <br>
+            
+            <a href="john.html">Messi</a> <br>
+</body>
+</html>
