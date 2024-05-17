@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sematic Taga</title>
+</head>
+<body align="center">
+    <header>
+        <nav>
+            <a href="band.html" target="_blank">Band</a>
+            <a href="tour.html" target="_blank">Tour</a>
+            <a href="contact1.html" target="_blank">Contact</a>
+            <a href="Merchant.html"target="_blank"></a>
+        </nav>
+
+        <br><br>
+
+    </header>
+    <section>
+        <div>
+        <img src="images/task5.jpeg" alt="" width="300">
+        <h2>THE BAND</h2>
+        <h4> <i><mark>We love music</mark></i></h4>
+        </div>
+    
+        <div>
+        <p>
+            We have created a fictional band website. Lorem ipsum dolor
+            sit amet consectetur adipisicing elit,sed do eiusmod <br>tempor 
+            incididunt ut labore et dolore magna aliqua.Ut enium ad  minim 
+            veniam,quis nosttud exertcitation ullamco <br>laboris nisi ut eliquip
+            ex ea commodo consequat.Duis aute irure dolor in reprehenderit in 
+            voluptate velit esse cillum <br>dolore eu fugiat nulla pariatur.Excepteur
+            sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt <br>
+            mollit anim id est laborum consectetur adipiscing elit,sed do eiusmod 
+            tempor incididunt ut labore et dolore magna <br>aliqua.Ut enim ad minim veniam,
+            quis nostrud exertiation ullamco laboris nisi ut aliquip ex ea commondo consequat. 
+        </p>
+        </div>
+    </section>
+
+    <footer>
+        <h2>CONTACT US</h2>
+        <address>
+            Fan?Drop a note! <br><br>
+            Chicago,US <br><br>
+            Phone:+00 151515 <br><br>
+            Email:mail@mail.com <br><br>
+        </address>
+        <form action="">
+            <input type="text" placeholder="Name">
+            <input type="text" placeholder="Phone No">
+            <input type="email" placeholder="Email"> <br><br>
+            <button>
+                send
+            </button>
+        <br><br>
+        </form>
+        &#169 2024 The Band
+    </footer>
+
+</body>
+</html>
