@@ -1,0 +1,28 @@
+.t1
+{
+    font-size: larger;
+}
+.c1
+{
+    font-display: blue;
+}
+
+.m1
+{
+    text-align: center;
+}
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+body
+{
+    text-decoration: none;
+}
