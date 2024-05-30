@@ -1,0 +1,10 @@
+.s1
+{
+    display: inline;
+    background-color: yellow;
+    position: fixed;
+    top: 100;
+    right: 0;
+    padding: 10px;
+}
+
