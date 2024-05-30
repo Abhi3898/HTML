@@ -1,0 +1,116 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.vertical-nav {
+    width: 200px;
+    background-color: orangered;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+}
+
+.vertical-nav ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.vertical-nav ul li {
+    text-align: center;
+    
+
+}
+
+.vertical-nav ul li a {
+    display: block;
+    color: white;
+    padding: 10px;
+    text-decoration: none;
+
+}
+
+.vertical-nav ul li a:hover {
+    background-color: orangered;
+}
+
+h3
+{
+    color: white;
+}
+.s2{
+    color: black;
+    margin-right: 70%;
+    padding-top: 50px;
+    font-size: 20px;
+}
+h1{
+    text-align: center;
+    margin-top: 60px;
+    color: white;
+}
+
+p{
+   color: orange; 
+}
+
+.img1
+{
+    margin-right: 20%;
+    float: right;
+}
+
+.img2
+{
+    margin-right: 20%;
+    float: right;
+
+}
+.img3
+{
+    margin-right: 20%;
+    float: right;
+
+}
+.services
+{
+    margin-top: 40%;
+    text-align: left;
+    font-size: 20px;
+    padding: 20%;
+
+}
+.designers
+{
+    margin-inline-start: 0%;
+    text-align: left;
+    font-size: 20px;
+    padding: 20%;
+
+}
+
+.desig
+{
+    margin-left: 0%;
+}
+
+.table { 
+    border-collapse: collapse; 
+    width: 100%; 
+    margin-left: 5%; 
+
+} 
+
+th, td { 
+    border: 1px solid #ddd; 
+    padding: 35px; 
+    text-align: center; 
+} 
+
+th { 
+    background-color: #f2f2f2; 
+}
+.btn:hover
+{
+    background-color: black;
+}
