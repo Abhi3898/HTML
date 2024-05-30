@@ -1,0 +1,30 @@
+body
+{
+    background: linear-gradient(to right,blue 0%, rgb(51, 51, 207) 50%,
+    darkblue 0%, darkblue 50%);
+}
+h1
+{
+    text-align: center;
+    color: white;
+    font-size: 60px;
+}
+
+.m1,.m2,.m3
+{
+    height: 300px;
+    width: 350px;
+    display: inline-block;
+    border: 2px solid gray;
+    padding: 50px;
+    margin: 40px;
+    background-color: white;
+    text-align: justify;
+
+}
+.m1:hover,.m2:hover,.m3:hover
+{
+    background-color: cornflowerblue;
+    color: white;
+    transition: 0.6s;
+}
