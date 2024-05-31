@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>One Page</title>
+    <style>
+        .container{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+        .text{
+            font-size: 30px;
+            padding-left: 20px;
+            
+        }
+        ul{
+            overflow: hidden;
+        }
+        ul li{
+            float:left;
+            text-align: center;
+            list-style-type:none;
+        }
+        ul li a{
+            display:inline-block;
+            /* color:red; */
+            font-size: 18px;
+            text-align: center;
+            padding: 8px 10px;
+        } 
+    </style>
+
+    
+</head>
+<body align="center">
+    <header>
+        <div class="container">
+            <div class="image">
+                <img src="data:image/jpeg;base64,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" alt="" width="50">
+            </div>
+            <div class="text">
+                <h2>musixmatch</h2>
+            </div>
+           
+        </div>
+        <div class="navigate">
+            <nav>
+                <a href="#home">Home</a>
+                <a href="#about1">About US</a>
+                <a href="#funding">Funding</a>
+                <a href="#contact">Contact Us</a>
+            </nav>
+        </div>
+
+    </header>
+    <section id="home">
+        <h2>Welcome to Science World</h2>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/NQY8UrDy3Qs?si=Pai_bgCw5ksg27DE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <p>
+            <b>Science World</b>is a science centre run by a non-for-profit 
+            organization called ASTC Science World Society in Vancouver,British Columbia,Canada.It 
+            is Located at the end of False Creek and features many permanent interactive exhibits
+            and displays,as well as areas with varying topics throuhout the years.  
+        </p>
+        <p>
+            Prior to the building beimg handed over to Science World by the city government in 1987,the 
+            building was built as Expo Centre for the <mark>Expo 86</mark>world's fair.Following the end 
+            of Expo 86,the building was re-purposed as a  science centre.The science centre opened on May6,1989,
+            as Science World.[2]From 2005 to 2020, the museum was branded as Science World at 
+            <b>Telus World of Science,</b>before it reverted to its original name.
+        </p>
+    </section>
+    <section id="about1">
+        <h2>About Us</h2>
+        <img src="images.jpeg" alt="" width="500">
+        
+        <table border="1"cellpadding="8" width="50%" align="center">
+            <tr>
+                <th>Former name</th>
+                <td colspan="2">Telusphere(2005)</td>
+            </tr>
+            <tr>
+                <th>Established</th>
+                <td colspan="2">1989</td>
+            </tr>
+            <tr>
+                <th>CEO</th>
+                <td>Tracy Redies</td>
+            </tr>
+            <tr>
+                <th>Location</th>
+                <td>1455 Quebec street, Vancour,British Columbia,Canada</td>
+            </tr>
+        </table>
+    </section>
+    <section id="funding">
+        <h2>Funding</h2>
+        <p>
+            Science World operates with fundin g from donors to
+             the ASTC Science World Society and programming partners.Suppose for the
+             2021/2022 fiscal year include: 
+        </p>
+        <br><br>
+        <ul>
+            <li>&#x2022;Acuitas Therapeutics</li><br>
+            <li>&#x2022;Amazon</li><br>
+            <li>&#x2022;Flur</li><br>
+            <li>&#x2022;Electronic Arts</li><br>
+            <li>&#x2022;SAP</li><br>
+            <li>&#x2022;Telus</li><br>
+        </ul>
+    </section>
+    <footer id="contact">
+        <h2>Contact Us</h2>
+        <i>Fill your details!We will contact you soon!</i><br><br>
+        <form action="#">
+            <label for="">Name</label>
+            <input type="text"><br><br>
+            <label for="">Email</label>
+            <input type="text"><br><br>
+            <label for="">Message</label>
+            <textarea name="" id="" rows="3" cols="23"></textarea><br><br>
+            <button>send</button><br><br><br>
+
+        </form>
+       <b> &#169 2024 Science World.Made with &#9829; Synlogica </b>
+    </footer>
+</body>
+</html>
