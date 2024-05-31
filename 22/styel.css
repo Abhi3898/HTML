@@ -1,0 +1,29 @@
+.b1
+{
+    background-image: url('https://images.rawpixel.com/image_800/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcm00MjgtMDAzMC1rczA0dXNjcy5qcGc.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    color: blue;
+    text-align: center;
+}
+.b1 h4
+{
+   color: black;
+}
+
+.a1
+{
+    background-image: url('https://bootstrapmade.com/demo/templates/Scaffold/assets/img/cta-bg.jpg');
+    background-position: center;
+    background-attachment: fixed;
+    
+}
+.c1
+{
+    background-color: blue;
+    color: white;
+}
+img
+{
+width: 350px;
+}
