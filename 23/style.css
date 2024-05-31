@@ -1,0 +1,44 @@
+.s1
+{
+    font-weight: bolder;
+}
+.s3
+{
+    text-align: center;
+}
+.s2
+{
+    width: 50;
+}
+
+.s4
+{
+    padding: 50px 200px 50px 200px;
+    font-size: 20px;
+}
+.s5
+{
+    padding: 50px 200px 50px 200px;
+    font-size: 20px;
+
+}
+
+.column {
+    float: left;
+    padding: 50px;
+    height: 100px;
+  }
+  
+  .left, .right {
+    width: 25%;
+  }
+  
+  .middle {
+    width: 25%;
+  }
+  
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
